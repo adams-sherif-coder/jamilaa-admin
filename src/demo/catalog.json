@@ -1,0 +1,2798 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "parent_id": null,
+      "name_ar": "جاكيتات",
+      "name_en": "Jackets"
+    },
+    {
+      "id": 2,
+      "parent_id": null,
+      "name_ar": "إكسسوارات",
+      "name_en": "Accessories"
+    },
+    {
+      "id": 3,
+      "parent_id": null,
+      "name_ar": "عطور",
+      "name_en": "Perfumes"
+    },
+    {
+      "id": 4,
+      "parent_id": null,
+      "name_ar": "حقائب",
+      "name_en": "Bags"
+    },
+    {
+      "id": 5,
+      "parent_id": null,
+      "name_ar": "محافظ",
+      "name_en": "Wallets"
+    },
+    {
+      "id": 6,
+      "parent_id": null,
+      "name_ar": "أحزمة",
+      "name_en": "Belts"
+    },
+    {
+      "id": 7,
+      "parent_id": null,
+      "name_ar": "نظارات شمسية",
+      "name_en": "Sunglasses"
+    }
+  ],
+  "products": [
+    {
+      "id": 80,
+      "model_code": "000080",
+      "slug": "demo-design-80",
+      "canonical_path": "/products/demo-design-80",
+      "selected_variant_id": 300,
+      "breadcrumbs": [
+        {
+          "id": 3,
+          "name_ar": "عطور",
+          "name_en": "Perfumes"
+        }
+      ],
+      "similar_products": [],
+      "name_ar": "عطور تصميم 80",
+      "name_en": "Perfumes Design 80",
+      "description_ar": "منتج تجريبي محلي لجميلة كلوزيت",
+      "description_en": "Local demonstration product for Jamila Closet.",
+      "category": {
+        "id": 3,
+        "name_ar": "عطور",
+        "name_en": "Perfumes"
+      },
+      "gallery": [
+        {
+          "id": 80,
+          "url": "/images/perfumes.jpg",
+          "thumbnail_url": "/images/perfumes.jpg",
+          "alt_ar": "عطور تصميم 80",
+          "alt_en": "Perfumes Design 80",
+          "color_id": null
+        }
+      ],
+      "shared_gallery": [
+        {
+          "id": 80,
+          "url": "/images/perfumes.jpg",
+          "thumbnail_url": "/images/perfumes.jpg",
+          "alt_ar": "عطور تصميم 80",
+          "alt_en": "Perfumes Design 80",
+          "color_id": null
+        }
+      ],
+      "color_galleries": [],
+      "primary_image": {
+        "id": 80,
+        "url": "/images/perfumes.jpg",
+        "thumbnail_url": "/images/perfumes.jpg",
+        "alt_ar": "عطور تصميم 80",
+        "alt_en": "Perfumes Design 80",
+        "color_id": null
+      },
+      "size_chart": {
+        "rows": [
+          [
+            "S",
+            88
+          ],
+          [
+            "M",
+            94
+          ],
+          [
+            "L",
+            100
+          ]
+        ],
+        "labels": {
+          "ar": [
+            "المقاس",
+            "الصدر سم"
+          ],
+          "en": [
+            "Size",
+            "Chest cm"
+          ]
+        }
+      },
+      "return_days": 14,
+      "variants": [
+        {
+          "id": 300,
+          "color": null,
+          "size": null,
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 100000,
+            "current_minor": 100000,
+            "discount_minor": 0,
+            "previous_display_minor": null,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 70000
+          }
+        }
+      ],
+      "is_published": true,
+      "category_id": 3
+    },
+    {
+      "id": 78,
+      "model_code": "000078",
+      "slug": "demo-design-78",
+      "canonical_path": "/products/demo-design-78",
+      "selected_variant_id": 287,
+      "breadcrumbs": [
+        {
+          "id": 1,
+          "name_ar": "جاكيتات",
+          "name_en": "Jackets"
+        }
+      ],
+      "similar_products": [],
+      "name_ar": "جاكيتات تصميم 78",
+      "name_en": "Jackets Design 78",
+      "description_ar": "منتج تجريبي محلي لجميلة كلوزيت",
+      "description_en": "Local demonstration product for Jamila Closet.",
+      "category": {
+        "id": 1,
+        "name_ar": "جاكيتات",
+        "name_en": "Jackets"
+      },
+      "gallery": [
+        {
+          "id": 78,
+          "url": "/images/jackets.jpg",
+          "thumbnail_url": "/images/jackets.jpg",
+          "alt_ar": "جاكيتات تصميم 78",
+          "alt_en": "Jackets Design 78",
+          "color_id": null
+        }
+      ],
+      "shared_gallery": [
+        {
+          "id": 78,
+          "url": "/images/jackets.jpg",
+          "thumbnail_url": "/images/jackets.jpg",
+          "alt_ar": "جاكيتات تصميم 78",
+          "alt_en": "Jackets Design 78",
+          "color_id": null
+        }
+      ],
+      "color_galleries": [],
+      "primary_image": {
+        "id": 78,
+        "url": "/images/jackets.jpg",
+        "thumbnail_url": "/images/jackets.jpg",
+        "alt_ar": "جاكيتات تصميم 78",
+        "alt_en": "Jackets Design 78",
+        "color_id": null
+      },
+      "size_chart": {
+        "rows": [
+          [
+            "S",
+            88
+          ],
+          [
+            "M",
+            94
+          ],
+          [
+            "L",
+            100
+          ]
+        ],
+        "labels": {
+          "ar": [
+            "المقاس",
+            "الصدر سم"
+          ],
+          "en": [
+            "Size",
+            "Chest cm"
+          ]
+        }
+      },
+      "return_days": 14,
+      "variants": [
+        {
+          "id": 287,
+          "color": {
+            "id": 1,
+            "name_ar": "وردي",
+            "name_en": "Rose",
+            "swatch": "#E79DB4"
+          },
+          "size": {
+            "id": 1,
+            "name_ar": "S",
+            "name_en": "S",
+            "group": "alphabetic",
+            "position": 0
+          },
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 80000,
+            "current_minor": 68000,
+            "discount_minor": 12000,
+            "previous_display_minor": 80000,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 56000
+          }
+        },
+        {
+          "id": 288,
+          "color": {
+            "id": 1,
+            "name_ar": "وردي",
+            "name_en": "Rose",
+            "swatch": "#E79DB4"
+          },
+          "size": {
+            "id": 2,
+            "name_ar": "M",
+            "name_en": "M",
+            "group": "alphabetic",
+            "position": 1
+          },
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 80500,
+            "current_minor": 68425,
+            "discount_minor": 12075,
+            "previous_display_minor": 80500,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 56350
+          }
+        },
+        {
+          "id": 289,
+          "color": {
+            "id": 1,
+            "name_ar": "وردي",
+            "name_en": "Rose",
+            "swatch": "#E79DB4"
+          },
+          "size": {
+            "id": 3,
+            "name_ar": "L",
+            "name_en": "L",
+            "group": "alphabetic",
+            "position": 2
+          },
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 81000,
+            "current_minor": 68850,
+            "discount_minor": 12150,
+            "previous_display_minor": 81000,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 56700
+          }
+        },
+        {
+          "id": 290,
+          "color": {
+            "id": 2,
+            "name_ar": "أسود",
+            "name_en": "Black",
+            "swatch": "#202027"
+          },
+          "size": {
+            "id": 1,
+            "name_ar": "S",
+            "name_en": "S",
+            "group": "alphabetic",
+            "position": 0
+          },
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 80000,
+            "current_minor": 68000,
+            "discount_minor": 12000,
+            "previous_display_minor": 80000,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 56000
+          }
+        },
+        {
+          "id": 291,
+          "color": {
+            "id": 2,
+            "name_ar": "أسود",
+            "name_en": "Black",
+            "swatch": "#202027"
+          },
+          "size": {
+            "id": 2,
+            "name_ar": "M",
+            "name_en": "M",
+            "group": "alphabetic",
+            "position": 1
+          },
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 80500,
+            "current_minor": 68425,
+            "discount_minor": 12075,
+            "previous_display_minor": 80500,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 56350
+          }
+        },
+        {
+          "id": 292,
+          "color": {
+            "id": 2,
+            "name_ar": "أسود",
+            "name_en": "Black",
+            "swatch": "#202027"
+          },
+          "size": {
+            "id": 3,
+            "name_ar": "L",
+            "name_en": "L",
+            "group": "alphabetic",
+            "position": 2
+          },
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 81000,
+            "current_minor": 68850,
+            "discount_minor": 12150,
+            "previous_display_minor": 81000,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 56700
+          }
+        },
+        {
+          "id": 293,
+          "color": {
+            "id": 3,
+            "name_ar": "كريمي",
+            "name_en": "Cream",
+            "swatch": "#F1E6CB"
+          },
+          "size": {
+            "id": 5,
+            "name_ar": "38",
+            "name_en": "38",
+            "group": "numeric",
+            "position": 4
+          },
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 82000,
+            "current_minor": 69700,
+            "discount_minor": 12300,
+            "previous_display_minor": 82000,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 57399
+          }
+        },
+        {
+          "id": 294,
+          "color": {
+            "id": 3,
+            "name_ar": "كريمي",
+            "name_en": "Cream",
+            "swatch": "#F1E6CB"
+          },
+          "size": {
+            "id": 6,
+            "name_ar": "40",
+            "name_en": "40",
+            "group": "numeric",
+            "position": 5
+          },
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 82500,
+            "current_minor": 70125,
+            "discount_minor": 12375,
+            "previous_display_minor": 82500,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 57749
+          }
+        },
+        {
+          "id": 295,
+          "color": {
+            "id": 4,
+            "name_ar": "أزرق",
+            "name_en": "Blue",
+            "swatch": "#486A9A"
+          },
+          "size": {
+            "id": 7,
+            "name_ar": "Custom",
+            "name_en": "Custom",
+            "group": "custom",
+            "position": 6
+          },
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 83000,
+            "current_minor": 70550,
+            "discount_minor": 12450,
+            "previous_display_minor": 83000,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 58099
+          }
+        },
+        {
+          "id": 296,
+          "color": {
+            "id": 4,
+            "name_ar": "أزرق",
+            "name_en": "Blue",
+            "swatch": "#486A9A"
+          },
+          "size": {
+            "id": 8,
+            "name_ar": "مقاس حر",
+            "name_en": "Free size",
+            "group": "free",
+            "position": 7
+          },
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 83500,
+            "current_minor": 70975,
+            "discount_minor": 12525,
+            "previous_display_minor": 83500,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 58449
+          }
+        }
+      ],
+      "is_published": true,
+      "category_id": 1
+    },
+    {
+      "id": 77,
+      "model_code": "000077",
+      "slug": "demo-design-77",
+      "canonical_path": "/products/demo-design-77",
+      "selected_variant_id": 284,
+      "breadcrumbs": [
+        {
+          "id": 7,
+          "name_ar": "نظارات شمسية",
+          "name_en": "Sunglasses"
+        }
+      ],
+      "similar_products": [],
+      "name_ar": "نظارات شمسية تصميم 77",
+      "name_en": "Sunglasses Design 77",
+      "description_ar": "منتج تجريبي محلي لجميلة كلوزيت",
+      "description_en": "Local demonstration product for Jamila Closet.",
+      "category": {
+        "id": 7,
+        "name_ar": "نظارات شمسية",
+        "name_en": "Sunglasses"
+      },
+      "gallery": [
+        {
+          "id": 77,
+          "url": "/images/sunglasses.jpg",
+          "thumbnail_url": "/images/sunglasses.jpg",
+          "alt_ar": "نظارات شمسية تصميم 77",
+          "alt_en": "Sunglasses Design 77",
+          "color_id": null
+        }
+      ],
+      "shared_gallery": [
+        {
+          "id": 77,
+          "url": "/images/sunglasses.jpg",
+          "thumbnail_url": "/images/sunglasses.jpg",
+          "alt_ar": "نظارات شمسية تصميم 77",
+          "alt_en": "Sunglasses Design 77",
+          "color_id": null
+        }
+      ],
+      "color_galleries": [],
+      "primary_image": {
+        "id": 77,
+        "url": "/images/sunglasses.jpg",
+        "thumbnail_url": "/images/sunglasses.jpg",
+        "alt_ar": "نظارات شمسية تصميم 77",
+        "alt_en": "Sunglasses Design 77",
+        "color_id": null
+      },
+      "size_chart": {
+        "rows": [
+          [
+            "S",
+            88
+          ],
+          [
+            "M",
+            94
+          ],
+          [
+            "L",
+            100
+          ]
+        ],
+        "labels": {
+          "ar": [
+            "المقاس",
+            "الصدر سم"
+          ],
+          "en": [
+            "Size",
+            "Chest cm"
+          ]
+        }
+      },
+      "return_days": 14,
+      "variants": [
+        {
+          "id": 284,
+          "color": {
+            "id": 1,
+            "name_ar": "وردي",
+            "name_en": "Rose",
+            "swatch": "#E79DB4"
+          },
+          "size": null,
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 70000,
+            "current_minor": 70000,
+            "discount_minor": 0,
+            "previous_display_minor": null,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 49000
+          }
+        },
+        {
+          "id": 285,
+          "color": {
+            "id": 2,
+            "name_ar": "أسود",
+            "name_en": "Black",
+            "swatch": "#202027"
+          },
+          "size": null,
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 70000,
+            "current_minor": 70000,
+            "discount_minor": 0,
+            "previous_display_minor": null,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 49000
+          }
+        },
+        {
+          "id": 286,
+          "color": {
+            "id": 3,
+            "name_ar": "كريمي",
+            "name_en": "Cream",
+            "swatch": "#F1E6CB"
+          },
+          "size": {
+            "id": 8,
+            "name_ar": "مقاس حر",
+            "name_en": "Free size",
+            "group": "free",
+            "position": 7
+          },
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 73500,
+            "current_minor": 73500,
+            "discount_minor": 0,
+            "previous_display_minor": null,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 51450
+          }
+        }
+      ],
+      "is_published": true,
+      "category_id": 7
+    },
+    {
+      "id": 76,
+      "model_code": "000076",
+      "slug": "demo-design-76",
+      "canonical_path": "/products/demo-design-76",
+      "selected_variant_id": 281,
+      "breadcrumbs": [
+        {
+          "id": 6,
+          "name_ar": "أحزمة",
+          "name_en": "Belts"
+        }
+      ],
+      "similar_products": [],
+      "name_ar": "أحزمة تصميم 76",
+      "name_en": "Belts Design 76",
+      "description_ar": "منتج تجريبي محلي لجميلة كلوزيت",
+      "description_en": "Local demonstration product for Jamila Closet.",
+      "category": {
+        "id": 6,
+        "name_ar": "أحزمة",
+        "name_en": "Belts"
+      },
+      "gallery": [
+        {
+          "id": 76,
+          "url": "/images/belts.jpg",
+          "thumbnail_url": "/images/belts.jpg",
+          "alt_ar": "أحزمة تصميم 76",
+          "alt_en": "Belts Design 76",
+          "color_id": null
+        }
+      ],
+      "shared_gallery": [
+        {
+          "id": 76,
+          "url": "/images/belts.jpg",
+          "thumbnail_url": "/images/belts.jpg",
+          "alt_ar": "أحزمة تصميم 76",
+          "alt_en": "Belts Design 76",
+          "color_id": null
+        }
+      ],
+      "color_galleries": [],
+      "primary_image": {
+        "id": 76,
+        "url": "/images/belts.jpg",
+        "thumbnail_url": "/images/belts.jpg",
+        "alt_ar": "أحزمة تصميم 76",
+        "alt_en": "Belts Design 76",
+        "color_id": null
+      },
+      "size_chart": {
+        "rows": [
+          [
+            "S",
+            88
+          ],
+          [
+            "M",
+            94
+          ],
+          [
+            "L",
+            100
+          ]
+        ],
+        "labels": {
+          "ar": [
+            "المقاس",
+            "الصدر سم"
+          ],
+          "en": [
+            "Size",
+            "Chest cm"
+          ]
+        }
+      },
+      "return_days": 14,
+      "variants": [
+        {
+          "id": 281,
+          "color": {
+            "id": 1,
+            "name_ar": "وردي",
+            "name_en": "Rose",
+            "swatch": "#E79DB4"
+          },
+          "size": null,
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 60000,
+            "current_minor": 60000,
+            "discount_minor": 0,
+            "previous_display_minor": null,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 42000
+          }
+        },
+        {
+          "id": 282,
+          "color": {
+            "id": 2,
+            "name_ar": "أسود",
+            "name_en": "Black",
+            "swatch": "#202027"
+          },
+          "size": null,
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 60000,
+            "current_minor": 60000,
+            "discount_minor": 0,
+            "previous_display_minor": null,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 42000
+          }
+        },
+        {
+          "id": 283,
+          "color": {
+            "id": 3,
+            "name_ar": "كريمي",
+            "name_en": "Cream",
+            "swatch": "#F1E6CB"
+          },
+          "size": {
+            "id": 8,
+            "name_ar": "مقاس حر",
+            "name_en": "Free size",
+            "group": "free",
+            "position": 7
+          },
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 63500,
+            "current_minor": 63500,
+            "discount_minor": 0,
+            "previous_display_minor": null,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 44450
+          }
+        }
+      ],
+      "is_published": true,
+      "category_id": 6
+    },
+    {
+      "id": 75,
+      "model_code": "000075",
+      "slug": "demo-design-75",
+      "canonical_path": "/products/demo-design-75",
+      "selected_variant_id": 278,
+      "breadcrumbs": [
+        {
+          "id": 5,
+          "name_ar": "محافظ",
+          "name_en": "Wallets"
+        }
+      ],
+      "similar_products": [],
+      "name_ar": "محافظ تصميم 75",
+      "name_en": "Wallets Design 75",
+      "description_ar": "منتج تجريبي محلي لجميلة كلوزيت",
+      "description_en": "Local demonstration product for Jamila Closet.",
+      "category": {
+        "id": 5,
+        "name_ar": "محافظ",
+        "name_en": "Wallets"
+      },
+      "gallery": [
+        {
+          "id": 75,
+          "url": "/images/wallets.jpg",
+          "thumbnail_url": "/images/wallets.jpg",
+          "alt_ar": "محافظ تصميم 75",
+          "alt_en": "Wallets Design 75",
+          "color_id": null
+        }
+      ],
+      "shared_gallery": [
+        {
+          "id": 75,
+          "url": "/images/wallets.jpg",
+          "thumbnail_url": "/images/wallets.jpg",
+          "alt_ar": "محافظ تصميم 75",
+          "alt_en": "Wallets Design 75",
+          "color_id": null
+        }
+      ],
+      "color_galleries": [],
+      "primary_image": {
+        "id": 75,
+        "url": "/images/wallets.jpg",
+        "thumbnail_url": "/images/wallets.jpg",
+        "alt_ar": "محافظ تصميم 75",
+        "alt_en": "Wallets Design 75",
+        "color_id": null
+      },
+      "size_chart": {
+        "rows": [
+          [
+            "S",
+            88
+          ],
+          [
+            "M",
+            94
+          ],
+          [
+            "L",
+            100
+          ]
+        ],
+        "labels": {
+          "ar": [
+            "المقاس",
+            "الصدر سم"
+          ],
+          "en": [
+            "Size",
+            "Chest cm"
+          ]
+        }
+      },
+      "return_days": 14,
+      "variants": [
+        {
+          "id": 278,
+          "color": {
+            "id": 1,
+            "name_ar": "وردي",
+            "name_en": "Rose",
+            "swatch": "#E79DB4"
+          },
+          "size": null,
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 50000,
+            "current_minor": 42500,
+            "discount_minor": 7500,
+            "previous_display_minor": 50000,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 35000
+          }
+        },
+        {
+          "id": 279,
+          "color": {
+            "id": 2,
+            "name_ar": "أسود",
+            "name_en": "Black",
+            "swatch": "#202027"
+          },
+          "size": null,
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 50000,
+            "current_minor": 42500,
+            "discount_minor": 7500,
+            "previous_display_minor": 50000,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 35000
+          }
+        },
+        {
+          "id": 280,
+          "color": {
+            "id": 3,
+            "name_ar": "كريمي",
+            "name_en": "Cream",
+            "swatch": "#F1E6CB"
+          },
+          "size": {
+            "id": 8,
+            "name_ar": "مقاس حر",
+            "name_en": "Free size",
+            "group": "free",
+            "position": 7
+          },
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 53500,
+            "current_minor": 45475,
+            "discount_minor": 8025,
+            "previous_display_minor": 53500,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 37450
+          }
+        }
+      ],
+      "is_published": true,
+      "category_id": 5
+    },
+    {
+      "id": 74,
+      "model_code": "000074",
+      "slug": "demo-design-74",
+      "canonical_path": "/products/demo-design-74",
+      "selected_variant_id": 275,
+      "breadcrumbs": [
+        {
+          "id": 4,
+          "name_ar": "حقائب",
+          "name_en": "Bags"
+        }
+      ],
+      "similar_products": [],
+      "name_ar": "حقائب تصميم 74",
+      "name_en": "Bags Design 74",
+      "description_ar": "منتج تجريبي محلي لجميلة كلوزيت",
+      "description_en": "Local demonstration product for Jamila Closet.",
+      "category": {
+        "id": 4,
+        "name_ar": "حقائب",
+        "name_en": "Bags"
+      },
+      "gallery": [
+        {
+          "id": 74,
+          "url": "/images/bags.jpg",
+          "thumbnail_url": "/images/bags.jpg",
+          "alt_ar": "حقائب تصميم 74",
+          "alt_en": "Bags Design 74",
+          "color_id": null
+        }
+      ],
+      "shared_gallery": [
+        {
+          "id": 74,
+          "url": "/images/bags.jpg",
+          "thumbnail_url": "/images/bags.jpg",
+          "alt_ar": "حقائب تصميم 74",
+          "alt_en": "Bags Design 74",
+          "color_id": null
+        }
+      ],
+      "color_galleries": [],
+      "primary_image": {
+        "id": 74,
+        "url": "/images/bags.jpg",
+        "thumbnail_url": "/images/bags.jpg",
+        "alt_ar": "حقائب تصميم 74",
+        "alt_en": "Bags Design 74",
+        "color_id": null
+      },
+      "size_chart": {
+        "rows": [
+          [
+            "S",
+            88
+          ],
+          [
+            "M",
+            94
+          ],
+          [
+            "L",
+            100
+          ]
+        ],
+        "labels": {
+          "ar": [
+            "المقاس",
+            "الصدر سم"
+          ],
+          "en": [
+            "Size",
+            "Chest cm"
+          ]
+        }
+      },
+      "return_days": 14,
+      "variants": [
+        {
+          "id": 275,
+          "color": {
+            "id": 1,
+            "name_ar": "وردي",
+            "name_en": "Rose",
+            "swatch": "#E79DB4"
+          },
+          "size": null,
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 40000,
+            "current_minor": 40000,
+            "discount_minor": 0,
+            "previous_display_minor": null,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 28000
+          }
+        },
+        {
+          "id": 276,
+          "color": {
+            "id": 2,
+            "name_ar": "أسود",
+            "name_en": "Black",
+            "swatch": "#202027"
+          },
+          "size": null,
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 40000,
+            "current_minor": 40000,
+            "discount_minor": 0,
+            "previous_display_minor": null,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 28000
+          }
+        },
+        {
+          "id": 277,
+          "color": {
+            "id": 3,
+            "name_ar": "كريمي",
+            "name_en": "Cream",
+            "swatch": "#F1E6CB"
+          },
+          "size": {
+            "id": 8,
+            "name_ar": "مقاس حر",
+            "name_en": "Free size",
+            "group": "free",
+            "position": 7
+          },
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 43500,
+            "current_minor": 43500,
+            "discount_minor": 0,
+            "previous_display_minor": null,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 30449
+          }
+        }
+      ],
+      "is_published": true,
+      "category_id": 4
+    },
+    {
+      "id": 73,
+      "model_code": "000073",
+      "slug": "demo-design-73",
+      "canonical_path": "/products/demo-design-73",
+      "selected_variant_id": 274,
+      "breadcrumbs": [
+        {
+          "id": 3,
+          "name_ar": "عطور",
+          "name_en": "Perfumes"
+        }
+      ],
+      "similar_products": [],
+      "name_ar": "عطور تصميم 73",
+      "name_en": "Perfumes Design 73",
+      "description_ar": "منتج تجريبي محلي لجميلة كلوزيت",
+      "description_en": "Local demonstration product for Jamila Closet.",
+      "category": {
+        "id": 3,
+        "name_ar": "عطور",
+        "name_en": "Perfumes"
+      },
+      "gallery": [
+        {
+          "id": 73,
+          "url": "/images/perfumes.jpg",
+          "thumbnail_url": "/images/perfumes.jpg",
+          "alt_ar": "عطور تصميم 73",
+          "alt_en": "Perfumes Design 73",
+          "color_id": null
+        }
+      ],
+      "shared_gallery": [
+        {
+          "id": 73,
+          "url": "/images/perfumes.jpg",
+          "thumbnail_url": "/images/perfumes.jpg",
+          "alt_ar": "عطور تصميم 73",
+          "alt_en": "Perfumes Design 73",
+          "color_id": null
+        }
+      ],
+      "color_galleries": [],
+      "primary_image": {
+        "id": 73,
+        "url": "/images/perfumes.jpg",
+        "thumbnail_url": "/images/perfumes.jpg",
+        "alt_ar": "عطور تصميم 73",
+        "alt_en": "Perfumes Design 73",
+        "color_id": null
+      },
+      "size_chart": {
+        "rows": [
+          [
+            "S",
+            88
+          ],
+          [
+            "M",
+            94
+          ],
+          [
+            "L",
+            100
+          ]
+        ],
+        "labels": {
+          "ar": [
+            "المقاس",
+            "الصدر سم"
+          ],
+          "en": [
+            "Size",
+            "Chest cm"
+          ]
+        }
+      },
+      "return_days": 14,
+      "variants": [
+        {
+          "id": 274,
+          "color": null,
+          "size": null,
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 30000,
+            "current_minor": 30000,
+            "discount_minor": 0,
+            "previous_display_minor": null,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 21000
+          }
+        }
+      ],
+      "is_published": true,
+      "category_id": 3
+    },
+    {
+      "id": 72,
+      "model_code": "000072",
+      "slug": "demo-design-72",
+      "canonical_path": "/products/demo-design-72",
+      "selected_variant_id": 271,
+      "breadcrumbs": [
+        {
+          "id": 2,
+          "name_ar": "إكسسوارات",
+          "name_en": "Accessories"
+        }
+      ],
+      "similar_products": [],
+      "name_ar": "إكسسوارات تصميم 72",
+      "name_en": "Accessories Design 72",
+      "description_ar": "منتج تجريبي محلي لجميلة كلوزيت",
+      "description_en": "Local demonstration product for Jamila Closet.",
+      "category": {
+        "id": 2,
+        "name_ar": "إكسسوارات",
+        "name_en": "Accessories"
+      },
+      "gallery": [
+        {
+          "id": 72,
+          "url": "/images/accessories.jpg",
+          "thumbnail_url": "/images/accessories.jpg",
+          "alt_ar": "إكسسوارات تصميم 72",
+          "alt_en": "Accessories Design 72",
+          "color_id": null
+        }
+      ],
+      "shared_gallery": [
+        {
+          "id": 72,
+          "url": "/images/accessories.jpg",
+          "thumbnail_url": "/images/accessories.jpg",
+          "alt_ar": "إكسسوارات تصميم 72",
+          "alt_en": "Accessories Design 72",
+          "color_id": null
+        }
+      ],
+      "color_galleries": [],
+      "primary_image": {
+        "id": 72,
+        "url": "/images/accessories.jpg",
+        "thumbnail_url": "/images/accessories.jpg",
+        "alt_ar": "إكسسوارات تصميم 72",
+        "alt_en": "Accessories Design 72",
+        "color_id": null
+      },
+      "size_chart": {
+        "rows": [
+          [
+            "S",
+            88
+          ],
+          [
+            "M",
+            94
+          ],
+          [
+            "L",
+            100
+          ]
+        ],
+        "labels": {
+          "ar": [
+            "المقاس",
+            "الصدر سم"
+          ],
+          "en": [
+            "Size",
+            "Chest cm"
+          ]
+        }
+      },
+      "return_days": 14,
+      "variants": [
+        {
+          "id": 271,
+          "color": {
+            "id": 1,
+            "name_ar": "وردي",
+            "name_en": "Rose",
+            "swatch": "#E79DB4"
+          },
+          "size": null,
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 100000,
+            "current_minor": 85000,
+            "discount_minor": 15000,
+            "previous_display_minor": 100000,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 70000
+          }
+        },
+        {
+          "id": 272,
+          "color": {
+            "id": 2,
+            "name_ar": "أسود",
+            "name_en": "Black",
+            "swatch": "#202027"
+          },
+          "size": null,
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 100000,
+            "current_minor": 85000,
+            "discount_minor": 15000,
+            "previous_display_minor": 100000,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 70000
+          }
+        },
+        {
+          "id": 273,
+          "color": {
+            "id": 3,
+            "name_ar": "كريمي",
+            "name_en": "Cream",
+            "swatch": "#F1E6CB"
+          },
+          "size": {
+            "id": 8,
+            "name_ar": "مقاس حر",
+            "name_en": "Free size",
+            "group": "free",
+            "position": 7
+          },
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 103500,
+            "current_minor": 87975,
+            "discount_minor": 15525,
+            "previous_display_minor": 103500,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 72450
+          }
+        }
+      ],
+      "is_published": true,
+      "category_id": 2
+    },
+    {
+      "id": 71,
+      "model_code": "000071",
+      "slug": "demo-design-71",
+      "canonical_path": "/products/demo-design-71",
+      "selected_variant_id": 261,
+      "breadcrumbs": [
+        {
+          "id": 1,
+          "name_ar": "جاكيتات",
+          "name_en": "Jackets"
+        }
+      ],
+      "similar_products": [],
+      "name_ar": "جاكيتات تصميم 71",
+      "name_en": "Jackets Design 71",
+      "description_ar": "منتج تجريبي محلي لجميلة كلوزيت",
+      "description_en": "Local demonstration product for Jamila Closet.",
+      "category": {
+        "id": 1,
+        "name_ar": "جاكيتات",
+        "name_en": "Jackets"
+      },
+      "gallery": [
+        {
+          "id": 71,
+          "url": "/images/jackets.jpg",
+          "thumbnail_url": "/images/jackets.jpg",
+          "alt_ar": "جاكيتات تصميم 71",
+          "alt_en": "Jackets Design 71",
+          "color_id": null
+        }
+      ],
+      "shared_gallery": [
+        {
+          "id": 71,
+          "url": "/images/jackets.jpg",
+          "thumbnail_url": "/images/jackets.jpg",
+          "alt_ar": "جاكيتات تصميم 71",
+          "alt_en": "Jackets Design 71",
+          "color_id": null
+        }
+      ],
+      "color_galleries": [],
+      "primary_image": {
+        "id": 71,
+        "url": "/images/jackets.jpg",
+        "thumbnail_url": "/images/jackets.jpg",
+        "alt_ar": "جاكيتات تصميم 71",
+        "alt_en": "Jackets Design 71",
+        "color_id": null
+      },
+      "size_chart": {
+        "rows": [
+          [
+            "S",
+            88
+          ],
+          [
+            "M",
+            94
+          ],
+          [
+            "L",
+            100
+          ]
+        ],
+        "labels": {
+          "ar": [
+            "المقاس",
+            "الصدر سم"
+          ],
+          "en": [
+            "Size",
+            "Chest cm"
+          ]
+        }
+      },
+      "return_days": 14,
+      "variants": [
+        {
+          "id": 261,
+          "color": {
+            "id": 1,
+            "name_ar": "وردي",
+            "name_en": "Rose",
+            "swatch": "#E79DB4"
+          },
+          "size": {
+            "id": 1,
+            "name_ar": "S",
+            "name_en": "S",
+            "group": "alphabetic",
+            "position": 0
+          },
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 90000,
+            "current_minor": 90000,
+            "discount_minor": 0,
+            "previous_display_minor": null,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 62999
+          }
+        },
+        {
+          "id": 262,
+          "color": {
+            "id": 1,
+            "name_ar": "وردي",
+            "name_en": "Rose",
+            "swatch": "#E79DB4"
+          },
+          "size": {
+            "id": 2,
+            "name_ar": "M",
+            "name_en": "M",
+            "group": "alphabetic",
+            "position": 1
+          },
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 90500,
+            "current_minor": 90500,
+            "discount_minor": 0,
+            "previous_display_minor": null,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 63349
+          }
+        },
+        {
+          "id": 263,
+          "color": {
+            "id": 1,
+            "name_ar": "وردي",
+            "name_en": "Rose",
+            "swatch": "#E79DB4"
+          },
+          "size": {
+            "id": 3,
+            "name_ar": "L",
+            "name_en": "L",
+            "group": "alphabetic",
+            "position": 2
+          },
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 91000,
+            "current_minor": 91000,
+            "discount_minor": 0,
+            "previous_display_minor": null,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 63699
+          }
+        },
+        {
+          "id": 264,
+          "color": {
+            "id": 2,
+            "name_ar": "أسود",
+            "name_en": "Black",
+            "swatch": "#202027"
+          },
+          "size": {
+            "id": 1,
+            "name_ar": "S",
+            "name_en": "S",
+            "group": "alphabetic",
+            "position": 0
+          },
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 90000,
+            "current_minor": 90000,
+            "discount_minor": 0,
+            "previous_display_minor": null,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 62999
+          }
+        },
+        {
+          "id": 265,
+          "color": {
+            "id": 2,
+            "name_ar": "أسود",
+            "name_en": "Black",
+            "swatch": "#202027"
+          },
+          "size": {
+            "id": 2,
+            "name_ar": "M",
+            "name_en": "M",
+            "group": "alphabetic",
+            "position": 1
+          },
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 90500,
+            "current_minor": 90500,
+            "discount_minor": 0,
+            "previous_display_minor": null,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 63349
+          }
+        },
+        {
+          "id": 266,
+          "color": {
+            "id": 2,
+            "name_ar": "أسود",
+            "name_en": "Black",
+            "swatch": "#202027"
+          },
+          "size": {
+            "id": 3,
+            "name_ar": "L",
+            "name_en": "L",
+            "group": "alphabetic",
+            "position": 2
+          },
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 91000,
+            "current_minor": 91000,
+            "discount_minor": 0,
+            "previous_display_minor": null,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 63699
+          }
+        },
+        {
+          "id": 267,
+          "color": {
+            "id": 3,
+            "name_ar": "كريمي",
+            "name_en": "Cream",
+            "swatch": "#F1E6CB"
+          },
+          "size": {
+            "id": 5,
+            "name_ar": "38",
+            "name_en": "38",
+            "group": "numeric",
+            "position": 4
+          },
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 92000,
+            "current_minor": 92000,
+            "discount_minor": 0,
+            "previous_display_minor": null,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 64399
+          }
+        },
+        {
+          "id": 268,
+          "color": {
+            "id": 3,
+            "name_ar": "كريمي",
+            "name_en": "Cream",
+            "swatch": "#F1E6CB"
+          },
+          "size": {
+            "id": 6,
+            "name_ar": "40",
+            "name_en": "40",
+            "group": "numeric",
+            "position": 5
+          },
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 92500,
+            "current_minor": 92500,
+            "discount_minor": 0,
+            "previous_display_minor": null,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 64749
+          }
+        },
+        {
+          "id": 269,
+          "color": {
+            "id": 4,
+            "name_ar": "أزرق",
+            "name_en": "Blue",
+            "swatch": "#486A9A"
+          },
+          "size": {
+            "id": 7,
+            "name_ar": "Custom",
+            "name_en": "Custom",
+            "group": "custom",
+            "position": 6
+          },
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 93000,
+            "current_minor": 93000,
+            "discount_minor": 0,
+            "previous_display_minor": null,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 65099
+          }
+        },
+        {
+          "id": 270,
+          "color": {
+            "id": 4,
+            "name_ar": "أزرق",
+            "name_en": "Blue",
+            "swatch": "#486A9A"
+          },
+          "size": {
+            "id": 8,
+            "name_ar": "مقاس حر",
+            "name_en": "Free size",
+            "group": "free",
+            "position": 7
+          },
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 93500,
+            "current_minor": 93500,
+            "discount_minor": 0,
+            "previous_display_minor": null,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 65449
+          }
+        }
+      ],
+      "is_published": true,
+      "category_id": 1
+    },
+    {
+      "id": 70,
+      "model_code": "000070",
+      "slug": "demo-design-70",
+      "canonical_path": "/products/demo-design-70",
+      "selected_variant_id": 258,
+      "breadcrumbs": [
+        {
+          "id": 7,
+          "name_ar": "نظارات شمسية",
+          "name_en": "Sunglasses"
+        }
+      ],
+      "similar_products": [],
+      "name_ar": "نظارات شمسية تصميم 70",
+      "name_en": "Sunglasses Design 70",
+      "description_ar": "منتج تجريبي محلي لجميلة كلوزيت",
+      "description_en": "Local demonstration product for Jamila Closet.",
+      "category": {
+        "id": 7,
+        "name_ar": "نظارات شمسية",
+        "name_en": "Sunglasses"
+      },
+      "gallery": [
+        {
+          "id": 70,
+          "url": "/images/sunglasses.jpg",
+          "thumbnail_url": "/images/sunglasses.jpg",
+          "alt_ar": "نظارات شمسية تصميم 70",
+          "alt_en": "Sunglasses Design 70",
+          "color_id": null
+        }
+      ],
+      "shared_gallery": [
+        {
+          "id": 70,
+          "url": "/images/sunglasses.jpg",
+          "thumbnail_url": "/images/sunglasses.jpg",
+          "alt_ar": "نظارات شمسية تصميم 70",
+          "alt_en": "Sunglasses Design 70",
+          "color_id": null
+        }
+      ],
+      "color_galleries": [],
+      "primary_image": {
+        "id": 70,
+        "url": "/images/sunglasses.jpg",
+        "thumbnail_url": "/images/sunglasses.jpg",
+        "alt_ar": "نظارات شمسية تصميم 70",
+        "alt_en": "Sunglasses Design 70",
+        "color_id": null
+      },
+      "size_chart": {
+        "rows": [
+          [
+            "S",
+            88
+          ],
+          [
+            "M",
+            94
+          ],
+          [
+            "L",
+            100
+          ]
+        ],
+        "labels": {
+          "ar": [
+            "المقاس",
+            "الصدر سم"
+          ],
+          "en": [
+            "Size",
+            "Chest cm"
+          ]
+        }
+      },
+      "return_days": 14,
+      "variants": [
+        {
+          "id": 258,
+          "color": {
+            "id": 1,
+            "name_ar": "وردي",
+            "name_en": "Rose",
+            "swatch": "#E79DB4"
+          },
+          "size": null,
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 80000,
+            "current_minor": 80000,
+            "discount_minor": 0,
+            "previous_display_minor": null,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 56000
+          }
+        },
+        {
+          "id": 259,
+          "color": {
+            "id": 2,
+            "name_ar": "أسود",
+            "name_en": "Black",
+            "swatch": "#202027"
+          },
+          "size": null,
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 80000,
+            "current_minor": 80000,
+            "discount_minor": 0,
+            "previous_display_minor": null,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 56000
+          }
+        },
+        {
+          "id": 260,
+          "color": {
+            "id": 3,
+            "name_ar": "كريمي",
+            "name_en": "Cream",
+            "swatch": "#F1E6CB"
+          },
+          "size": {
+            "id": 8,
+            "name_ar": "مقاس حر",
+            "name_en": "Free size",
+            "group": "free",
+            "position": 7
+          },
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 83500,
+            "current_minor": 83500,
+            "discount_minor": 0,
+            "previous_display_minor": null,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 58449
+          }
+        }
+      ],
+      "is_published": true,
+      "category_id": 7
+    },
+    {
+      "id": 69,
+      "model_code": "000069",
+      "slug": "demo-design-69",
+      "canonical_path": "/products/demo-design-69",
+      "selected_variant_id": 255,
+      "breadcrumbs": [
+        {
+          "id": 6,
+          "name_ar": "أحزمة",
+          "name_en": "Belts"
+        }
+      ],
+      "similar_products": [],
+      "name_ar": "أحزمة تصميم 69",
+      "name_en": "Belts Design 69",
+      "description_ar": "منتج تجريبي محلي لجميلة كلوزيت",
+      "description_en": "Local demonstration product for Jamila Closet.",
+      "category": {
+        "id": 6,
+        "name_ar": "أحزمة",
+        "name_en": "Belts"
+      },
+      "gallery": [
+        {
+          "id": 69,
+          "url": "/images/belts.jpg",
+          "thumbnail_url": "/images/belts.jpg",
+          "alt_ar": "أحزمة تصميم 69",
+          "alt_en": "Belts Design 69",
+          "color_id": null
+        }
+      ],
+      "shared_gallery": [
+        {
+          "id": 69,
+          "url": "/images/belts.jpg",
+          "thumbnail_url": "/images/belts.jpg",
+          "alt_ar": "أحزمة تصميم 69",
+          "alt_en": "Belts Design 69",
+          "color_id": null
+        }
+      ],
+      "color_galleries": [],
+      "primary_image": {
+        "id": 69,
+        "url": "/images/belts.jpg",
+        "thumbnail_url": "/images/belts.jpg",
+        "alt_ar": "أحزمة تصميم 69",
+        "alt_en": "Belts Design 69",
+        "color_id": null
+      },
+      "size_chart": {
+        "rows": [
+          [
+            "S",
+            88
+          ],
+          [
+            "M",
+            94
+          ],
+          [
+            "L",
+            100
+          ]
+        ],
+        "labels": {
+          "ar": [
+            "المقاس",
+            "الصدر سم"
+          ],
+          "en": [
+            "Size",
+            "Chest cm"
+          ]
+        }
+      },
+      "return_days": 14,
+      "variants": [
+        {
+          "id": 255,
+          "color": {
+            "id": 1,
+            "name_ar": "وردي",
+            "name_en": "Rose",
+            "swatch": "#E79DB4"
+          },
+          "size": null,
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 70000,
+            "current_minor": 59500,
+            "discount_minor": 10500,
+            "previous_display_minor": 70000,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 49000
+          }
+        },
+        {
+          "id": 256,
+          "color": {
+            "id": 2,
+            "name_ar": "أسود",
+            "name_en": "Black",
+            "swatch": "#202027"
+          },
+          "size": null,
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 70000,
+            "current_minor": 59500,
+            "discount_minor": 10500,
+            "previous_display_minor": 70000,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 49000
+          }
+        },
+        {
+          "id": 257,
+          "color": {
+            "id": 3,
+            "name_ar": "كريمي",
+            "name_en": "Cream",
+            "swatch": "#F1E6CB"
+          },
+          "size": {
+            "id": 8,
+            "name_ar": "مقاس حر",
+            "name_en": "Free size",
+            "group": "free",
+            "position": 7
+          },
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 73500,
+            "current_minor": 62475,
+            "discount_minor": 11025,
+            "previous_display_minor": 73500,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 51450
+          }
+        }
+      ],
+      "is_published": true,
+      "category_id": 6
+    },
+    {
+      "id": 68,
+      "model_code": "000068",
+      "slug": "demo-design-68",
+      "canonical_path": "/products/demo-design-68",
+      "selected_variant_id": 252,
+      "breadcrumbs": [
+        {
+          "id": 5,
+          "name_ar": "محافظ",
+          "name_en": "Wallets"
+        }
+      ],
+      "similar_products": [],
+      "name_ar": "محافظ تصميم 68",
+      "name_en": "Wallets Design 68",
+      "description_ar": "منتج تجريبي محلي لجميلة كلوزيت",
+      "description_en": "Local demonstration product for Jamila Closet.",
+      "category": {
+        "id": 5,
+        "name_ar": "محافظ",
+        "name_en": "Wallets"
+      },
+      "gallery": [
+        {
+          "id": 68,
+          "url": "/images/wallets.jpg",
+          "thumbnail_url": "/images/wallets.jpg",
+          "alt_ar": "محافظ تصميم 68",
+          "alt_en": "Wallets Design 68",
+          "color_id": null
+        }
+      ],
+      "shared_gallery": [
+        {
+          "id": 68,
+          "url": "/images/wallets.jpg",
+          "thumbnail_url": "/images/wallets.jpg",
+          "alt_ar": "محافظ تصميم 68",
+          "alt_en": "Wallets Design 68",
+          "color_id": null
+        }
+      ],
+      "color_galleries": [],
+      "primary_image": {
+        "id": 68,
+        "url": "/images/wallets.jpg",
+        "thumbnail_url": "/images/wallets.jpg",
+        "alt_ar": "محافظ تصميم 68",
+        "alt_en": "Wallets Design 68",
+        "color_id": null
+      },
+      "size_chart": {
+        "rows": [
+          [
+            "S",
+            88
+          ],
+          [
+            "M",
+            94
+          ],
+          [
+            "L",
+            100
+          ]
+        ],
+        "labels": {
+          "ar": [
+            "المقاس",
+            "الصدر سم"
+          ],
+          "en": [
+            "Size",
+            "Chest cm"
+          ]
+        }
+      },
+      "return_days": 14,
+      "variants": [
+        {
+          "id": 252,
+          "color": {
+            "id": 1,
+            "name_ar": "وردي",
+            "name_en": "Rose",
+            "swatch": "#E79DB4"
+          },
+          "size": null,
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 60000,
+            "current_minor": 60000,
+            "discount_minor": 0,
+            "previous_display_minor": null,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 42000
+          }
+        },
+        {
+          "id": 253,
+          "color": {
+            "id": 2,
+            "name_ar": "أسود",
+            "name_en": "Black",
+            "swatch": "#202027"
+          },
+          "size": null,
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 60000,
+            "current_minor": 60000,
+            "discount_minor": 0,
+            "previous_display_minor": null,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 42000
+          }
+        },
+        {
+          "id": 254,
+          "color": {
+            "id": 3,
+            "name_ar": "كريمي",
+            "name_en": "Cream",
+            "swatch": "#F1E6CB"
+          },
+          "size": {
+            "id": 8,
+            "name_ar": "مقاس حر",
+            "name_en": "Free size",
+            "group": "free",
+            "position": 7
+          },
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 63500,
+            "current_minor": 63500,
+            "discount_minor": 0,
+            "previous_display_minor": null,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 44450
+          }
+        }
+      ],
+      "is_published": true,
+      "category_id": 5
+    },
+    {
+      "id": 2,
+      "model_code": "000002",
+      "slug": "demo-design-2",
+      "canonical_path": "/products/demo-design-2",
+      "selected_variant_id": 11,
+      "breadcrumbs": [
+        {
+          "id": 2,
+          "name_ar": "إكسسوارات",
+          "name_en": "Accessories"
+        }
+      ],
+      "similar_products": [],
+      "name_ar": "إكسسوارات تصميم 2",
+      "name_en": "Accessories Design 2",
+      "description_ar": "منتج تجريبي محلي لجميلة كلوزيت",
+      "description_en": "Local demonstration product for Jamila Closet.",
+      "category": {
+        "id": 2,
+        "name_ar": "إكسسوارات",
+        "name_en": "Accessories"
+      },
+      "gallery": [
+        {
+          "id": 2,
+          "url": "/images/accessories.jpg",
+          "thumbnail_url": "/images/accessories.jpg",
+          "alt_ar": "إكسسوارات تصميم 2",
+          "alt_en": "Accessories Design 2",
+          "color_id": null
+        }
+      ],
+      "shared_gallery": [
+        {
+          "id": 2,
+          "url": "/images/accessories.jpg",
+          "thumbnail_url": "/images/accessories.jpg",
+          "alt_ar": "إكسسوارات تصميم 2",
+          "alt_en": "Accessories Design 2",
+          "color_id": null
+        }
+      ],
+      "color_galleries": [],
+      "primary_image": {
+        "id": 2,
+        "url": "/images/accessories.jpg",
+        "thumbnail_url": "/images/accessories.jpg",
+        "alt_ar": "إكسسوارات تصميم 2",
+        "alt_en": "Accessories Design 2",
+        "color_id": null
+      },
+      "size_chart": {
+        "rows": [
+          [
+            "S",
+            88
+          ],
+          [
+            "M",
+            94
+          ],
+          [
+            "L",
+            100
+          ]
+        ],
+        "labels": {
+          "ar": [
+            "المقاس",
+            "الصدر سم"
+          ],
+          "en": [
+            "Size",
+            "Chest cm"
+          ]
+        }
+      },
+      "return_days": 14,
+      "variants": [
+        {
+          "id": 11,
+          "color": {
+            "id": 1,
+            "name_ar": "وردي",
+            "name_en": "Rose",
+            "swatch": "#E79DB4"
+          },
+          "size": null,
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 40000,
+            "current_minor": 40000,
+            "discount_minor": 0,
+            "previous_display_minor": null,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 28000
+          }
+        },
+        {
+          "id": 12,
+          "color": {
+            "id": 2,
+            "name_ar": "أسود",
+            "name_en": "Black",
+            "swatch": "#202027"
+          },
+          "size": null,
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 40000,
+            "current_minor": 40000,
+            "discount_minor": 0,
+            "previous_display_minor": null,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 28000
+          }
+        },
+        {
+          "id": 13,
+          "color": {
+            "id": 3,
+            "name_ar": "كريمي",
+            "name_en": "Cream",
+            "swatch": "#F1E6CB"
+          },
+          "size": {
+            "id": 8,
+            "name_ar": "مقاس حر",
+            "name_en": "Free size",
+            "group": "free",
+            "position": 7
+          },
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 43500,
+            "current_minor": 43500,
+            "discount_minor": 0,
+            "previous_display_minor": null,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 30449
+          }
+        }
+      ],
+      "is_published": true,
+      "category_id": 2
+    },
+    {
+      "id": 3,
+      "model_code": "000003",
+      "slug": "demo-design-3",
+      "canonical_path": "/products/demo-design-3",
+      "selected_variant_id": 14,
+      "breadcrumbs": [
+        {
+          "id": 3,
+          "name_ar": "عطور",
+          "name_en": "Perfumes"
+        }
+      ],
+      "similar_products": [],
+      "name_ar": "عطور تصميم 3",
+      "name_en": "Perfumes Design 3",
+      "description_ar": "منتج تجريبي محلي لجميلة كلوزيت",
+      "description_en": "Local demonstration product for Jamila Closet.",
+      "category": {
+        "id": 3,
+        "name_ar": "عطور",
+        "name_en": "Perfumes"
+      },
+      "gallery": [
+        {
+          "id": 3,
+          "url": "/images/perfumes.jpg",
+          "thumbnail_url": "/images/perfumes.jpg",
+          "alt_ar": "عطور تصميم 3",
+          "alt_en": "Perfumes Design 3",
+          "color_id": null
+        }
+      ],
+      "shared_gallery": [
+        {
+          "id": 3,
+          "url": "/images/perfumes.jpg",
+          "thumbnail_url": "/images/perfumes.jpg",
+          "alt_ar": "عطور تصميم 3",
+          "alt_en": "Perfumes Design 3",
+          "color_id": null
+        }
+      ],
+      "color_galleries": [],
+      "primary_image": {
+        "id": 3,
+        "url": "/images/perfumes.jpg",
+        "thumbnail_url": "/images/perfumes.jpg",
+        "alt_ar": "عطور تصميم 3",
+        "alt_en": "Perfumes Design 3",
+        "color_id": null
+      },
+      "size_chart": {
+        "rows": [
+          [
+            "S",
+            88
+          ],
+          [
+            "M",
+            94
+          ],
+          [
+            "L",
+            100
+          ]
+        ],
+        "labels": {
+          "ar": [
+            "المقاس",
+            "الصدر سم"
+          ],
+          "en": [
+            "Size",
+            "Chest cm"
+          ]
+        }
+      },
+      "return_days": 14,
+      "variants": [
+        {
+          "id": 14,
+          "color": null,
+          "size": null,
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 50000,
+            "current_minor": 42500,
+            "discount_minor": 7500,
+            "previous_display_minor": 50000,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 35000
+          }
+        }
+      ],
+      "is_published": true,
+      "category_id": 3
+    },
+    {
+      "id": 4,
+      "model_code": "000004",
+      "slug": "demo-design-4",
+      "canonical_path": "/products/demo-design-4",
+      "selected_variant_id": 15,
+      "breadcrumbs": [
+        {
+          "id": 4,
+          "name_ar": "حقائب",
+          "name_en": "Bags"
+        }
+      ],
+      "similar_products": [],
+      "name_ar": "حقائب تصميم 4",
+      "name_en": "Bags Design 4",
+      "description_ar": "منتج تجريبي محلي لجميلة كلوزيت",
+      "description_en": "Local demonstration product for Jamila Closet.",
+      "category": {
+        "id": 4,
+        "name_ar": "حقائب",
+        "name_en": "Bags"
+      },
+      "gallery": [
+        {
+          "id": 4,
+          "url": "/images/bags.jpg",
+          "thumbnail_url": "/images/bags.jpg",
+          "alt_ar": "حقائب تصميم 4",
+          "alt_en": "Bags Design 4",
+          "color_id": null
+        }
+      ],
+      "shared_gallery": [
+        {
+          "id": 4,
+          "url": "/images/bags.jpg",
+          "thumbnail_url": "/images/bags.jpg",
+          "alt_ar": "حقائب تصميم 4",
+          "alt_en": "Bags Design 4",
+          "color_id": null
+        }
+      ],
+      "color_galleries": [],
+      "primary_image": {
+        "id": 4,
+        "url": "/images/bags.jpg",
+        "thumbnail_url": "/images/bags.jpg",
+        "alt_ar": "حقائب تصميم 4",
+        "alt_en": "Bags Design 4",
+        "color_id": null
+      },
+      "size_chart": {
+        "rows": [
+          [
+            "S",
+            88
+          ],
+          [
+            "M",
+            94
+          ],
+          [
+            "L",
+            100
+          ]
+        ],
+        "labels": {
+          "ar": [
+            "المقاس",
+            "الصدر سم"
+          ],
+          "en": [
+            "Size",
+            "Chest cm"
+          ]
+        }
+      },
+      "return_days": 14,
+      "variants": [
+        {
+          "id": 15,
+          "color": {
+            "id": 1,
+            "name_ar": "وردي",
+            "name_en": "Rose",
+            "swatch": "#E79DB4"
+          },
+          "size": null,
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 60000,
+            "current_minor": 60000,
+            "discount_minor": 0,
+            "previous_display_minor": null,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 42000
+          }
+        },
+        {
+          "id": 16,
+          "color": {
+            "id": 2,
+            "name_ar": "أسود",
+            "name_en": "Black",
+            "swatch": "#202027"
+          },
+          "size": null,
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 60000,
+            "current_minor": 60000,
+            "discount_minor": 0,
+            "previous_display_minor": null,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 42000
+          }
+        },
+        {
+          "id": 17,
+          "color": {
+            "id": 3,
+            "name_ar": "كريمي",
+            "name_en": "Cream",
+            "swatch": "#F1E6CB"
+          },
+          "size": {
+            "id": 8,
+            "name_ar": "مقاس حر",
+            "name_en": "Free size",
+            "group": "free",
+            "position": 7
+          },
+          "availability": {
+            "quantity": 12,
+            "purchasable_limit": 12,
+            "reason": null
+          },
+          "price": {
+            "regular_minor": 63500,
+            "current_minor": 63500,
+            "discount_minor": 0,
+            "previous_display_minor": null,
+            "promotion_starts_at": null,
+            "promotion_ends_at": null,
+            "currency": "EGP",
+            "minimum_minor": 44450
+          }
+        }
+      ],
+      "is_published": true,
+      "category_id": 4
+    }
+  ]
+}
